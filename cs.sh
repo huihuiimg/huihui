@@ -470,7 +470,6 @@ start_menu(){
     green " ======================================="
     echo
     repair_cert 
-    esac
 }
 
 start_menu
